@@ -10,3 +10,9 @@ Instale com npm
   git clone https://github.com/brsantos197/vite-vanilla-ts-tailwindcss.git
   npm install
 ```
+
+## Rodando o projeto
+
+```bash
+  npm run dev
+```
