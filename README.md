@@ -6,7 +6,6 @@ Projeto inicial vite com typescript e tailwindcss configurado
 Instale com npm
 
 ```bash
-  git clone 
+  git clone https://github.com/brsantos197/vite-vanilla-ts-tailwindcss.git
   npm install
 ```
-    
